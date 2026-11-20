@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+.DS_Store
+database_recordings/
+query_recordings/
+fingerprints/
